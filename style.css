@@ -28,7 +28,7 @@ html {
 }
 
 #correct {
-    background-color: #18e707;
+    background-color: #008000;
     padding: 8px;
     position: absolute;
     left: 290px;
@@ -37,7 +37,7 @@ html {
 }
 
 #tryagain {
-    background-color: #ff0000;
+    background-color: #dd0000;
     padding: 8px;
     position: absolute;
     left: 290px;
