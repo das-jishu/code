@@ -156,13 +156,13 @@ html {
 #timeremaining {
     text-align: center;
     border: 1px solid black;
-    width: 160px;
+    width: 180px;
     height: 40px;
     font-size: 18px;
     line-height: 40px;
     position: absolute;
     top: 360px;
-    left: 438px;
+    left: 418px;
     box-shadow: 1px 1px 5px 1px #c6c6c6;
     -webkit-box-shadow: 1px 1px 5px 1px #c6c6c6;
     -moz-box-shadow: 1px 1px 5px 1px #c6c6c6;
