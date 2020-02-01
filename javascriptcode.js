@@ -125,3 +125,8 @@ function generateQuestions() {
     }
 
 }
+
+document.getElementById("self").onclick = 
+function() {
+    window.open("https://github.com/das-jishu", "_blank");
+}
