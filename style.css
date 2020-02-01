@@ -10,7 +10,7 @@ html {
     box-shadow: 2px 4px 40px 1px #c6c6c6;
     -moz-box-shadow: 2px 4px 40px 1px #c6c6c6;
     -webkit-box-shadow: 2px 4px 40px 1px #c6c6c6;
-    margin: 150px auto;
+    margin: 150px auto 40px auto;
     padding: 15px 15px;
     position: relative;
 }
@@ -183,6 +183,38 @@ html {
     background-color: #00c6c6;
     display: none;
     z-index: 2;
+}
+
+#footerself {
+    text-align: center;
+    width: 250px;
+    /* border: 2px solid black; */
+    margin: 0px auto 0px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #666666;
+}
+
+#footerself2 {
+    text-align: center;
+    width: 250px;
+    /* border: 2px solid black; */
+    margin: 0px auto 0px auto;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: #7d7d7d;
+}
+
+#self {
+    cursor: pointer;
+    transition: all 0.2s;
+    -webkit-transition: all 0.2s;
+    -moz-transition: all 0.2s;
+    -o-transition: all 0.2s;
+    -ms-transition: all 0.2s;
+}
+
+#self:hover {
+    color: black;
+    text-decoration: underline;
 }
 
 
