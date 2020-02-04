@@ -185,6 +185,11 @@ html {
     z-index: 2;
 }
 
+#foot {
+    width: 650px;
+    margin: 0px auto 0px auto;
+}
+
 #footerself {
     text-align: center;
     width: 250px;
